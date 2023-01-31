@@ -1,4 +1,4 @@
-package com.example.adhan_time
+package co.bandtech.adhantime
 
 import io.flutter.embedding.android.FlutterActivity
 

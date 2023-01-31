@@ -1,7 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.adhan_time">
+    package="co.bandtech.adhantime">
+     <uses-permission android:name="android.permission.WAKE_LOCK"/>
+     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
    <application
-        android:label="adhan_time"
+        android:label="مواقيت الصلاة"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
