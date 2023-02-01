@@ -1,7 +1,9 @@
 # adhan_time
 
-A new Flutter project.
-
+تطبيق مواقيت الصلاة هو تطبيق لمعرفة اوقات الصلاة حسب مدينتك    
+     بالاضافة الى خيار البحث عن اي مدين ةعالمية 
+             سرعة في البحث والعرض
+  وايضا عرض التوقيت الهجري والميلادي  مع خيار الاذكار 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
